@@ -1,2 +1,1 @@
-# standard-position
-this is program that will show and analyze the position of something or someone else
+I'm now a ALX Student, this is my first repository as a full-stack engineer
